@@ -12,8 +12,8 @@ This project is a simple PHP-based personal task management application. It allo
 
 ### Installation
 
-1.)To install this project, simply clone the repository to your local machine and copy it to youre server
-2.)Make a database name workflow
-3.)import workflow sql to youre db
+*To install this project, simply clone the repository to your local machine and copy it to youre server
+*Make a database name workflow
+*import workflow sql to youre db
 
-thats is happy code
+
